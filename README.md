@@ -1,23 +1,3 @@
-# Dreamland Vite Plugin
+# This Repo has moved
 
-- A simple plugin for Vite with usage of [Dreamland.js](https://github.com/mercuryworkshop/dreamlandjs)
-
-## Installation
-
-```bash
-npm install -d vite-plugin-dreamland
-```
-
-## Usage
-
-```javascript
-// vite.config.js
-import { defineConfig } from 'vite';
-import dreamlandVite from 'vite-plugin-dreamland';
-
-export default defineConfig({
-    plugins: [dreamlandVite()]
-});
-```
-
-Licensed under the [MIT License](./LICENSE).
+- The package has moved to https://github.com/motortruck1221/dreamland-stuff/
